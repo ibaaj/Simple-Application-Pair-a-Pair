@@ -26,4 +26,4 @@ Lire le rapport à l'aide du pdf joint.
 
 ==============================
 
-MIT License / Paris Diderot 2014 
+MIT License /  M1 Protocoles Réseaux Paris Diderot 2014 

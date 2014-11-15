@@ -1,4 +1,4 @@
-Simple-Application-Pair-a-Pair
+Simple Application Pair à Pair / P2P
 ==============================
 
 
